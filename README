@@ -1,0 +1,14 @@
+*** CURRENTLY FOR 1.12A ONLY ***
+
+Increases the maximum save file size from 0x2000 to 0x8000.
+
+Ported from ES 3.00 R6D's direct dll hacks.
+
+Install:
+	* Copy savesize.dll to your game or mod dir
+	* Load savesize.dll with a loader (PlugY, etc)
+
+Site:
+	http://zenthought.org/project/diablo2
+
+- zinx <zinx@zenthought.org>
